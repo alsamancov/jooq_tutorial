@@ -1,0 +1,13 @@
+org\first\jooq\tables\records\UsersRecord.class
+org\first\jooq\DefaultCatalog.class
+org\first\jooq\Tables.class
+org\first\jooq\tables\pojos\Users.class
+org\first\jooq\tables\daos\UsersDao.class
+org\first\jooq\Indexes.class
+org\first\jooq\Keys$UniqueKeys0.class
+org\first\jooq\Indexes$Indexes0.class
+org\first\jooq\Sequences.class
+org\first\jooq\Keys.class
+org\first\jooq\tables\Users.class
+org\first\jooq\Public.class
+org\first\jooq\Keys$Identities0.class
